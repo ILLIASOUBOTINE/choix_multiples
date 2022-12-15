@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.border {
+  border-color: green;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
